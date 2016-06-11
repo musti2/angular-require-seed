@@ -1,0 +1,13 @@
+# ---
+# applications:
+#   - name: app-name
+#     buildpack: buidlpack_name
+#     path: dist
+#     memory: 64M
+#     stack: cflinuxfs2
+#     services:
+#             -
+#             - 
+#             - 
+#     env:
+#       UAA_SERVER_URL:
